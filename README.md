@@ -8,28 +8,6 @@
 </p>
 <br/> -->
 
-
-# Web3, Full Stack Solidity, Smart Contract & Blockchain - Beginner to Expert ULTIMATE Course | Javascript Edition
-
-<br/>
-<p align="center">
-<a href="https://www.youtube.com/watch?v=gyMwXuJrbJQ" target="_blank">
-<img src="./img/blockchain1.png" width="500" alt="Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Javascript Tutorial">
-</a>
-</p>
-<br/>
-
-Welcome to the repository for the Ultimate Web3, Full Stack Solidity, and Smart Contract - Beginner to Expert Full Course | Javascript Edition FreeCodeCamp Course!
-
-# Link to video: https://www.youtube.com/watch?v=gyMwXuJrbJQ
-
-All code references have both a javascript and a typescript edition.
-
-Recommended Testnet: Rinkeby
-
-# [Testnet Faucets](https://faucets.chain.link)
-Main Faucet: https://faucets.chain.link
-
 Backup Faucet: https://rinkebyfaucet.com/
 
 > ⚠️ All code associated with this course is for demo purposes only. They have not been audited and should not be considered production ready. Please use at your own risk. 
